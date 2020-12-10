@@ -1,7 +1,4 @@
 #Colour palettes by Paul Tol https://personal.sron.nl/~pault/#sec:qualitative, https://cran.r-project.org/web/packages/khroma/vignettes/tol.html
-CB_color_cycle = ['#377eb8', '#ff7f00', '#4daf4a',
-                  '#f781bf', '#a65628', '#984ea3',
-                  '#999999', '#e41a1c', '#dede00']
 
 Tol_bright_colour = ['#4477AA','#66CCEE','#228833',
                      '#CCBB44','#EE6677','#AA3377','#BBBBBB']
