@@ -1,4 +1,4 @@
-#Colour palettes by Paul Tol https://personal.sron.nl/~pault/#sec:qualitative
+#Colour palettes by Paul Tol https://personal.sron.nl/~pault/#sec:qualitative, https://cran.r-project.org/web/packages/khroma/vignettes/tol.html
 
 Tol_bright_colour = ['#4477AA','#66CCEE','#228833','#CCBB44','#EE6677','#AA3377','#BBBBBB']
 
