@@ -1,7 +1,7 @@
 #Colour palettes by Paul Tol https://personal.sron.nl/~pault/#sec:qualitative, https://cran.r-project.org/web/packages/khroma/vignettes/tol.html
 
 Tol_bright = ['#4477AA','#66CCEE','#228833',
-                     '#CCBB44','#EE6677','#AA3377','#BBBBBB']
+                     '#CCBB44','#EE6677','#AA3377','#BBBBBB','k']
 
 Tol_high_contrast = ['#FFFFFF','#DDAA33','#BB5566','#004488','#000000']
 
